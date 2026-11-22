@@ -40,6 +40,19 @@ Agente conversacional offline e relatório analítico sobre o El Niño com dados
 
 ---
 
+## Publicações & Estudos de Caso
+
+Artigos autorais no [Medium](https://medium.com/@enosbarros):
+
+- [Como transformar dados operacionais do Salesforce em uma plataforma pronta para Analytics e IA](https://medium.com/@enosbarros/arquitetura-de-dados-transformando-informa%C3%A7%C3%B5es-do-salesforce-em-estrat%C3%A9gia-de-neg%C3%B3cios-7e14506f957a) — arquitetura em camadas para preparar dados operacionais para análises, indicadores e modelos preditivos.
+- [Quando os dados mostraram que estávamos ouvindo poucas pessoas](https://medium.com/@enosbarros/quando-os-dados-mostraram-que-est%C3%A1vamos-ouvindo-poucas-pessoas-ad5699784c74) — análise estatística que ampliou em mais de 140 clientes/mês a população elegível para pesquisas NPS.
+- [Automação inteligente de sorteio para NPS relacional](https://medium.com/@enosbarros/automa%C3%A7%C3%A3o-inteligente-de-sorteio-para-nps-relacional-19e457d1e161) — automação que reduziu 6 horas de trabalho manual para 1 clique.
+- [Estudo de caso Zaitt: um mercado sem atendentes nem filas no Brasil](https://medium.com/@enosbarros/estudo-de-caso-zaitt-6947b25896d1) — estudo de caso de produto e experiência.
+- [Rest in Plate](https://medium.com/@enosbarros/rest-in-plate-bac8a64cd357) — estudo de caso sobre espera e filas.
+- [Desafio Study the Sun](https://medium.com/@enosbarros/desafio-study-the-sun-ff50a669c14d) — estudo de caso de UX.
+
+---
+
 ## Stack
 
 - **Linguagens:** Python, SQL, PowerShell, Bash
@@ -50,3 +63,4 @@ Agente conversacional offline e relatório analítico sobre o El Niño com dados
 ## Contato
 
 - E-mail: enosbarros@gmail.com
+- Medium: [medium.com/@enosbarros](https://medium.com/@enosbarros)
